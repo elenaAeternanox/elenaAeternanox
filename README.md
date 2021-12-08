@@ -8,6 +8,14 @@ I have been working in QA manual for 8 years and in QA full stack for 1,5 years.
 ___
 
 
+### My card in GitHub
+
+[![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaAeternanox)](https://github.com/elenaAeternanox/github-readme-stats)
+
+
+___
+
+
 ### I suggest you familiarize yourself with my projects in github :grinning::
 
 <p align="center">
@@ -15,15 +23,6 @@ ___
 </p>
 
 As you can look, there's a lot qa guru homeworks projects. The reason is simple - I'm studying in qa.guru for QA automation. And now I'm interested in improving my skills in this scope.
-
-
-___
-
-
-### My card in GitHub
-
-[![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaAeternanox)](https://github.com/elenaAeternanox/github-readme-stats)
-
 
 
 ___
