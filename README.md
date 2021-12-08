@@ -34,5 +34,5 @@ ___
 Welcome!
 + [Telegram](https://t.me/elena_aeternanox)
 + [Linkedin](https://www.linkedin.com/in/elena-komarova-b728041b8/)
-+ [Email](antares87@mail.ru)
++ [Email](mailto:antares87@mail.ru)
 
