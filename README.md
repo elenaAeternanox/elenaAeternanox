@@ -1,9 +1,8 @@
 ### Hi there :raised_hand_with_fingers_splayed: Welcome to my GitHub page!
 
-I'm Elena Komarova and I'm Senior QA (Full stack QA) engineer.
+I'm Elena Komarova and I'm a Senior QA (Full stack QA) engineer.
 
-I have been working in QA manual for 8 years and in QA full stack for 1,5 years. And I love my job so much :heart_eyes_cat:
-
+I have been working as a manual QA engineer for 8 years, of which 1,5 years as a full stack QA.
 
 ___
 
@@ -14,7 +13,7 @@ ___
   <img src="images/Github_projects.PNG">
 </p>
 
-As you can look, there's a lot qa guru homeworks projects. The reason is simple - I'm studying in qa.guru for QA automation. And now I'm interested in improving my skills in this scope.
+As you can see, there are a lot of qa guru homeworks projects. The reason is simple - I’m studying QA automation in qa.guru school. And now I'm interested in improving my skills in this scope.
 
 
 ___
