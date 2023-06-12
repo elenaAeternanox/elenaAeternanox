@@ -2,9 +2,9 @@
 
 I'm Elena Komarova and I'm a QA Automation engineer.
 
-I had been working as a manual QA engineer since 2014. 
-Since 2020 I've started work with autotests on Java. 
-Since the middle of 2021 to the end of 2022 I was the full stack QA.
+- I had been working as a manual QA engineer since 2014. 
+- Since 2020 I've started work with autotests on Java. 
+- Since the middle of 2021 to the end of 2022 I was the full stack QA.
 
 ___
 
