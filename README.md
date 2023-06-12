@@ -1,8 +1,10 @@
 ### Hi there :raised_hand_with_fingers_splayed: Welcome to my GitHub page!
 
-I'm Elena Komarova and I'm a Senior QA (Full stack QA) engineer.
+I'm Elena Komarova and I'm a QA Automation engineer.
 
-I have been working as a manual QA engineer for 8 years, of which 1,5 years as a full stack QA.
+I had been working as a manual QA engineer since 2014. 
+Since 2020 I've started work with autotests on Java. 
+Since the middle of 2021 to the end of 2022 I was the full stack QA.
 
 ___
 
